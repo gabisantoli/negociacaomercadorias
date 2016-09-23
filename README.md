@@ -1,2 +1,7 @@
 # negociacaomercadorias
-Software para pequenos negocios
+
+Plataforma de negociação de mercadorias. 
+
+
+
+
